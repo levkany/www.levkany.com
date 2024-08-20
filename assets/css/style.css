@@ -1,0 +1,26 @@
+html, body {
+    background-color: #151515;
+    color: #b1b1b1;
+    font-family: "Ubuntu Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+#terminal-input {
+    background: unset !important;
+    border: unset !important;
+    outline: unset !important;
+    color: inherit;
+}
+textarea {
+    resize: none;
+    overflow: hidden;
+    background: inherit;
+    border: unset;
+    padding: 0;
+    margin: 0;
+    color: inherit;
+    width: 100%;
+}
+p {
+    margin: 0;
+}
